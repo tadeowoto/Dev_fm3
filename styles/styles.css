@@ -234,12 +234,12 @@ body{
         display: flex;
         flex-direction: column;
         background-color: var(--White);
-        border-radius: 0px;
+        border-radius: 0;
     }
 
     .left-container{
         width: 100%;
-        
+        border-radius: 0;
     }
 
     .right-main-title{
