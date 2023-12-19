@@ -206,11 +206,13 @@ body {
 }
 
 .right-number {
+  margin: 0;
   font-weight: bold;
   color: var(--Dark-gray-blue);
+  margin-right: 2px;
 }
-
 .right-info-stats {
+  display: flex;
   color: var(--Light-lavender);
 }
 
